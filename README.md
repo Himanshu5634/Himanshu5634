@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **web Devleopment,java,c**
+- 💬 Ask me about **web Devleopment,java,c,angularJs,Mysql**
 
 - 📫 How to reach me **himanshumakwana5634@gmail.com**
 
